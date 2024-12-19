@@ -1,1 +1,1 @@
-from vaddpack.HelloVaddi import helloWorld
+from .HelloVaddi import helloWorld
