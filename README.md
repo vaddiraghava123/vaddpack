@@ -1,2 +1,2 @@
-# vaddpack
-Python own package
+# Vaddi package
+A simple vaddpack package
