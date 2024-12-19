@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='vaddpack',  # Package name
-    version='1.1.1',   # Initial version
+    version='1.2.1',   # Initial version
     description='A simple vaddpack package',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
@@ -13,6 +13,7 @@ setup(
     packages=find_packages(),  # Automatically find packages
     install_requires=[
         # Add dependencies here
+        "openpyxl>=3.1.5"
     ],
     classifiers=[
         'Programming Language :: Python :: 3',
