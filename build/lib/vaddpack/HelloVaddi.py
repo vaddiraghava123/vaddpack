@@ -4,5 +4,5 @@ def __init__(self):
 def helloWorld(self,str):
     return "Hello Vaddi Package :: "+ str
     
-def newWelcomeMessage(self):
+def newWelcomeMessage():
     return "New Vadd Welcome package"
