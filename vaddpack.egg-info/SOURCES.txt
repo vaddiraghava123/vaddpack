@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+vaddpack.egg-info/PKG-INFO
+vaddpack.egg-info/SOURCES.txt
+vaddpack.egg-info/dependency_links.txt
+vaddpack.egg-info/top_level.txt
