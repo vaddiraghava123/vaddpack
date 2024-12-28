@@ -6,6 +6,7 @@ vaddpack/ExcelFileProcess.py
 vaddpack/HelloVaddi.py
 vaddpack/__init__.py
 vaddpack/euclideanDistance.py
+vaddpack/statisticalOperation.py
 vaddpack.egg-info/PKG-INFO
 vaddpack.egg-info/SOURCES.txt
 vaddpack.egg-info/dependency_links.txt
