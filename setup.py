@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='vaddpack',  # Package name
-    version='1.2.3',   # Initial version
+    version='1.2.4',   # Initial version
     description='A simple vaddpack package',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
