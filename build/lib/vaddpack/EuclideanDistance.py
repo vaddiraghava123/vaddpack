@@ -8,10 +8,10 @@ import math
         and return the output as both min and max values (min,max)
         '''
 def calculate(list1, list2, methodType):
-    distances = [_calculate_distance(point, list2, methodType) for point in list1]
+    distances = [__calculate_distance(point, list2, methodType) for point in list1]
     return min(distances),max(distances)
 
-def _calculate_distance(point1, point2 ,val):   
+def __calculate_distance(point1, point2 ,val):   
     if val != 'Old': 
         return math.sqrt((point2[0] - point1[0])**2 + (point2[1] - point1[1])**2)
     else:
