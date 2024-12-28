@@ -1,6 +1,7 @@
 LICENSE
 README.md
 setup.py
+vaddpack/EuclideanDistance.py
 vaddpack/ExcelFileProcess.py
 vaddpack/HelloVaddi.py
 vaddpack/__init__.py
